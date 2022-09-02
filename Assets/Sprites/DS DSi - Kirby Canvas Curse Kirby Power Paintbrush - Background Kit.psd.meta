@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: 8579d1a2563d0014ca73ce5d8b68c71d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1358
+        width: 432
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f45468c227e8049909d2908e7d0e0f
+      internalID: 2012320874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1442
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126a8e3806426974aa4ac67677cc8298
+      internalID: -1614981616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_2
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1479
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47633500fc7780e41ba815c1ddad1c6e
+      internalID: -623617445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_3
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9783cbaa736185f45a2e248e55d2f4ff
+      internalID: -922246314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1456
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee8ca40b83a93146b6f7e3499478bef
+      internalID: 515090235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_5
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1396
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd77b7509409e54b9ee04cccc0a051e
+      internalID: -1750301262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_11
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1365
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b12a5b754b9a2d43aa7525c396fd41e
+      internalID: -1094888447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_12
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1362
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae819481ae97a294e87612c837f7c456
+      internalID: -1695105059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_14
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1362
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36db1e7bc3ece8948ab50cfddff723e3
+      internalID: -328254698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1362
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb96f204091ca2499ecf6235bee207a
+      internalID: 685020681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1204
+        width: 400
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdddeb121b55b2545bd80c33178f2c05
+      internalID: -3582602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_22
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1204
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ee3123fc23cfb49bee666d13796872
+      internalID: -1962412562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1127
+        width: 256
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a317db8dee5ae3146b2c42ce7ec78707
+      internalID: -1687900427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_24
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1127
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dfe1a237cff8344af9b2729821f814
+      internalID: -718780641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 974
+        width: 32
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d58c2bbad792ae448079cddb4bd0bf3
+      internalID: 1974605677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_26
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 974
+        width: 32
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beacfc6d68bdc63429341f1eb215bc30
+      internalID: -1813829456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 894
+        width: 224
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aa2b9f3acfb7c479b201f51ecbd424
+      internalID: -1668208921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 894
+        width: 224
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aa82d545b3b3c4587313b3251ce99b
+      internalID: 156159916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_29
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 700
+        width: 192
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe6972e28a075e4f8acaa533115c277
+      internalID: 317733664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 796
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74e7225d53111046959b7473d3b101e
+      internalID: 1681701986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_31
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 700
+        width: 192
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29217226bc400f45973ff12705a0513
+      internalID: 1586940457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 796
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea1e2d0398c27042b163d7576712ea5
+      internalID: 1687993749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_33
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 587
+        width: 192
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cd9795915c7a1468f5711294f6b8c4
+      internalID: -880766559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 588
+        width: 192
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ddb6a8e46f2244883bc188c306d068
+      internalID: -1064182558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_35
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 443
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b180d3f2b2e92f946b28d66daead80a5
+      internalID: 1441800768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_36
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 444
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e95dbe4302e444fa78ef2c72d2e5b5
+      internalID: -733238789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 398
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9463da84acface34b86c44e5200d91ed
+      internalID: 1494595994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_38
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 398
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12ed282e437a9745825066a5092c719
+      internalID: -197301379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_39
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 350
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f06d8d8ad8dfe4385c3c563a29f596
+      internalID: 724240742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_40
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 350
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7718ace46e402b244b9326c326090f3d
+      internalID: -236996485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_41
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 254
+        width: 208
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0ed65af85f13f48b5c9bf884af742b
+      internalID: -1756344707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_42
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 254
+        width: 208
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3200c992b12e93e41be3dba076dd11ae
+      internalID: 137590174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_43
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 97
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde3ef09a5f4b7242ba946d56b70ad1c
+      internalID: -1047353849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_44
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 97
+        width: 80
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ff6a7f83914bb478be2f8f8e88918d
+      internalID: 251834926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_15: -1653596565
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_40: -236996485
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_12: -1695105059
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_2: -623617445
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_37: 1494595994
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_4: 515090235
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_26: -1813829456
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_7: -719457822
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_6: -1586037117
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_28: 156159916
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_35: 1441800768
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_1: -1614981616
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_41: -1756344707
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_10: 565084603
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_20: -954548446
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_44: 251834926
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_23: -1687900427
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_13: -1893690455
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_42: 137590174
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_31: 1586940457
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_39: 724240742
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_8: 1288854263
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_3: -922246314
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_11: -1094888447
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_27: -1668208921
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_36: -733238789
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_30: 1681701986
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_0: 2012320874
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_5: -1750301262
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_33: -880766559
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_19: -380360006
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_21: -3582602
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_18: 1361855941
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_32: 1687993749
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_14: -328254698
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_9: 1284062555
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_17: 1397333384
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_43: -1047353849
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_38: -197301379
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_16: 685020681
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_34: -1064182558
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_25: 1974605677
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_29: 317733664
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_24: -718780641
+      DS DSi - Kirby Canvas Curse Kirby Power Paintbrush - Background Kit_22: -1962412562
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
